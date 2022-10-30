@@ -25,6 +25,8 @@ class handler(BaseHTTPRequestHandler):
                 message =  f"{capital_city} is not a capital city, kindly enter a valid capital city name..."
             else:
                 message = f"{capital_city} is the capital city of {country_name}" 
+        else: 
+            message = "Kindly enter a country or capital city name..."
 
         self.send_response(200)
         self.send_header('Content-type','text/plain')
