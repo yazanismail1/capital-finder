@@ -6,7 +6,7 @@
 
 ## Project Description
 
-Capital finder is an implementation of the serverless using vercel along with dealing with api where based on query attachements results appear to the user.
+Capital finder is an implementation of the serverless using vercel along with dealing with api, based on query attachements, results appear to the user.
 
 ## How to initialize/run the application
 
