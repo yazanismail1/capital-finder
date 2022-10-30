@@ -12,7 +12,7 @@ Capital finder is an implementation of the serverless using vercel along with de
 
 ### Home route
 
-[https://capital-finder-beige.vercel.app/api/capital_finder](https://capital-finder-beige.vercel.app/api/capital_finder)
+[https://capital-finder-beige.vercel.app/api/capital-finder](https://capital-finder-beige.vercel.app/api/capital-finder)
 
 ### Response Output
 
@@ -22,7 +22,7 @@ Capital finder is an implementation of the serverless using vercel along with de
 
 ### Get the capital city of a country
 
-[https://capital-finder-beige.vercel.app/api/capital_finder?country=jordan](https://capital-finder-beige.vercel.app/api/capital_finder?country=jordan)
+[https://capital-finder-beige.vercel.app/api/capital-finder?country=jordan](https://capital-finder-beige.vercel.app/api/capital-finder?country=jordan)
 
 ### Response Output
 
@@ -30,7 +30,7 @@ Capital finder is an implementation of the serverless using vercel along with de
 
 ### Get the capital city of a country | wrong entry
 
-[https://capital-finder-beige.vercel.app/api/capital_finder?country=jordans](https://capital-finder-beige.vercel.app/api/capital_finder?country=jordans)
+[https://capital-finder-beige.vercel.app/api/capital-finder?country=jordans](https://capital-finder-beige.vercel.app/api/capital-finder?country=jordans)
 
 ### Response Output
 
@@ -40,7 +40,7 @@ Capital finder is an implementation of the serverless using vercel along with de
 
 ### Get country from capital city
 
-[https://capital-finder-beige.vercel.app/api/capital_finder?capital=amman](https://capital-finder-beige.vercel.app/api/capital_finder?capital=amman)
+[https://capital-finder-beige.vercel.app/api/capital-finder?capital=amman](https://capital-finder-beige.vercel.app/api/capital-finder?capital=amman)
 
 ### Response Output
 
@@ -48,7 +48,7 @@ Capital finder is an implementation of the serverless using vercel along with de
 
 ### Get country from capital city | wrong entry
 
-[https://capital-finder-beige.vercel.app/api/capital_finder?capital=ammans](https://capital-finder-beige.vercel.app/api/capital_finder?capital=ammans)
+[https://capital-finder-beige.vercel.app/api/capital-finder?capital=ammans](https://capital-finder-beige.vercel.app/api/capital-finder?capital=ammans)
 
 ### Response Output
 
