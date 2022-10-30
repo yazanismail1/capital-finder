@@ -6,6 +6,7 @@ from logic.logic import get_country, get_capital
 class handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
+        '''A function that send request to vercel'''
         s=self.path
         url_components=parse.urlsplit(s)
         query_string_list = parse.parse_qsl(url_components.query)
